@@ -29,7 +29,6 @@ int print_u(va_list u)
 	}
 	return (count);
 }
-
 /**
  * print_o - takes an unsigned int and prints it in octal notation
  * @o: unsigned int to print
